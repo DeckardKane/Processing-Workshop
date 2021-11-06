@@ -8,6 +8,7 @@
 color yellow = #FFF534;
 color black = #111111;
 color white = #FFFFFF;
+color red = #E82525;
 
 // Oh, also, if you're wondering, the // makes text a "comment". It's a good way to write notes to yourself/others
 
