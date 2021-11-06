@@ -11,10 +11,10 @@ PImage img;
 
 // Remember, setup runs one time, and one time only.
 void setup() {
-  size(500, 700); // dimensions of the sketch canvas (in pixels)
+  size(1000, 1200); // dimensions of the sketch canvas (in pixels)
   background(BG); // background color of the sketch
   img = loadImage("peter.jpg"); // bring in an image of your choice from the data folder
-  img.resize(500, 700); // set img to a certain size (in this case, same size as canvas)
+  img.resize(1000, 1200); // set img to a certain size (in this case, same size as canvas)
 }
 
 // draw runs continuously when you play the sketch.
